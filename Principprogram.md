@@ -1,11 +1,7 @@
 # Principprogram 4.0 – Antaget på vårmötet 2012
 
-Piratpartiet tror att människor som har tillgång till fri kommunikation, kultur och kunskap växer, mår bättre och tillsammans skapar ett roligare och mänskligare samhälle för alla att leva i. Vi ser att den moderna informationstekniken öppnar nya möjligheter för människor att själva ta makten över sina liv och vara med och påverka samhällsutvecklingen. Vi ser hur ett friare informationsflöde gör att både tankar, kulturellt skapande och ekonomin kan växa. För att dessa möjligheter ska infrias, och vi ska slippa snärjas in i alltmer kontroll och övervakning, krävs dock två grundläggande attityd­förändringar från de makthavandes sida:
-
-_Staten måste börja lita på sina medborgare, visa dem större respekt och ge dem mer frihet._
-
-_
-_
+Piratpartiet tror att människor som har tillgång till fri kommunikation, kultur och kunskap växer, mår bättre och tillsammans skapar ett roligare och mänskligare samhälle för alla att leva i. Vi ser att den moderna informationstekniken öppnar nya möjligheter för människor att själva ta makten över sina liv och vara med och påverka samhällsutvecklingen. Vi ser hur ett friare informationsflöde gör att både tankar, kulturellt skapande och ekonomin kan växa. För att dessa möjligheter ska infrias, och vi ska slippa snärjas in i alltmer kontroll och övervakning, krävs dock två grundläggande attityd­förändringar från de makthavandes sida:<span style="line-height: 1.428571429;">_
+_</span>
 
 _Teststycke....._
 
