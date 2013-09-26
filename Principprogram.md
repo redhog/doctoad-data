@@ -4,6 +4,14 @@ Piratpartiet tror att människor som har tillgång till fri kommunikation, kultu
 
 _Staten måste börja lita på sina medborgare, visa dem större respekt och ge dem mer frihet._
 
+_
+_
+
+_Teststycke._
+
+_
+_
+
 Människor som möts med misstanke kommer att svara med misstanke. Människor som möts med förtroende svarar med förtroende.
 
 Människor som möts med hårdhet svarar med hårdhet. Människor som möts med medmänsklighet svarar med medmänsklighet.
